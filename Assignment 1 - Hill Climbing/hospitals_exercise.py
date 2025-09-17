@@ -1,4 +1,4 @@
-"""
+-"""
 HOSPITAL PLACEMENT via Local Search (Hill Climbing)
 
 Your tasks (fill the TODOs):
